@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/IMConvention/precache-manifest.7cc6318631e4066857cb36f3223e193f.js"
+  "/IMConvention/precache-manifest.92427ec301c682ee52c4deea3ffd8ba3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "imconvention"});
