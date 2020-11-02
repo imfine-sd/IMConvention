@@ -32,5 +32,9 @@ try {
     if (firebase.messaging.isSupported()) {
         const messaging = firebase.messaging();
         console.log("@@", messaging)
+        messaging.onMessage((payload) => {
+            console.log('Message received. ', payload);
+            // ...
+        });
     }
 } catch (e) { }
