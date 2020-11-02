@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30a95f953eec45d33a1c",
+    "revision": "2725988e2496633fc361",
     "url": "/IMConvention/css/app.ba422f61.css"
   },
   {
-    "revision": "17aad68edf7f862f9b7f",
+    "revision": "c80035a5e6caeacdf97b",
     "url": "/IMConvention/css/chunk-vendors.b44cf432.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IMConvention/img/LOGO-1.a61f62f6.gif"
   },
   {
-    "revision": "4e82a92f6ff2dd89a5328fed06d43ebb",
+    "revision": "d41c561206bf89ae5f1adba862d58f50",
     "url": "/IMConvention/index.html"
   },
   {
-    "revision": "30a95f953eec45d33a1c",
-    "url": "/IMConvention/js/app.d787b8c8.js"
+    "revision": "2725988e2496633fc361",
+    "url": "/IMConvention/js/app.6373ef84.js"
   },
   {
-    "revision": "17aad68edf7f862f9b7f",
-    "url": "/IMConvention/js/chunk-vendors.87c77f16.js"
+    "revision": "c80035a5e6caeacdf97b",
+    "url": "/IMConvention/js/chunk-vendors.213fc44b.js"
   },
   {
     "revision": "662eb7db2c9dbd93bee77a79f70c171a",
