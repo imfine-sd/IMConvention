@@ -13,9 +13,9 @@ firebase.initializeApp({
     databaseURL: "https://fir-ca8ad.firebaseio.com",
     projectId: "fir-ca8ad",
     storageBucket: "fir-ca8ad.appspot.com",
-    messagingSenderId: '371247898053',
-    appId: "1:371247898053:web:a657c9fb4898a89947bfac",
-    measurementId: "G-BWCDY22QJR"
+    messagingSenderId: "371247898053",
+    appId: "1:371247898053:web:6c4786de640f7d0f47bfac",
+    measurementId: "G-1CF0K55L16"
 });
 
 // Retrieve an instance of Firebase Messaging so that it can handle background
