@@ -27,3 +27,10 @@ firebase.initializeApp({
 //     // ...
 //   });
 // console.log("MM", messaging)
+
+try {
+    if (firebase.messaging.isSupported()) {
+        const messaging = firebase.messaging();
+        console.log("@@", messaging)
+    }
+} catch (e) { }
