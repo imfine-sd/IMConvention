@@ -31,10 +31,23 @@ firebase.initializeApp({
 try {
     if (firebase.messaging.isSupported()) {
         const messaging = firebase.messaging();
-        console.log("@@", messaging)
-        messaging.onMessage((payload) => {
+        console.log("messaging @@", messaging)
+        // messaging.onMessage((payload) => {
+        //     console.log('Message received. ', payload);
+        //     // ...
+        // });
+
+        // 백그라운드 상태에서 받은 알림 처리
+        messaging.setBackgroundMessageHandler((payload) => {
             console.log('Message received. ', payload);
-            // ...
+            // Customize notification here
+            const title = 'Background Message Title'
+            const options = {
+                body: payload.data.message,
+                icon: '/firebase-logo.png'
+            }
+
+            return self.registration.showNotification(title, options);
         });
     }
 } catch (e) { }
