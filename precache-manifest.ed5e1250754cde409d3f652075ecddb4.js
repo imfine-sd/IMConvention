@@ -4,15 +4,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IMConvention/404.html"
   },
   {
-    "revision": "5ea485075a5d39761354",
+    "revision": "e32e81cd6c2ed5035d30",
     "url": "/IMConvention/css/app.ba422f61.css"
   },
   {
-    "revision": "f70a0572d2051db4fc6d",
+    "revision": "1459b94a52460c341803",
     "url": "/IMConvention/css/chunk-vendors.b44cf432.css"
   },
   {
-    "revision": "49eb15a35bdeb4b248c796b37df33191",
+    "revision": "73d27d5d5e01f7285d168ec7696ffa2f",
     "url": "/IMConvention/firebase-messaging-sw.js"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IMConvention/img/LOGO-1.a61f62f6.gif"
   },
   {
-    "revision": "8b3772b3d92e27e96269a20943f24a89",
+    "revision": "9d5bda62fef679e67aa751d81405f31e",
     "url": "/IMConvention/index.html"
   },
   {
-    "revision": "5ea485075a5d39761354",
-    "url": "/IMConvention/js/app.904841e6.js"
+    "revision": "e32e81cd6c2ed5035d30",
+    "url": "/IMConvention/js/app.21477ab8.js"
   },
   {
-    "revision": "f70a0572d2051db4fc6d",
-    "url": "/IMConvention/js/chunk-vendors.8228a339.js"
+    "revision": "1459b94a52460c341803",
+    "url": "/IMConvention/js/chunk-vendors.79ae8e33.js"
   },
   {
     "revision": "662eb7db2c9dbd93bee77a79f70c171a",
